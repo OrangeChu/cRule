@@ -465,5 +465,6 @@ payload:
   - DOMAIN-SUFFIX,viu.com
   - DOMAIN-SUFFIX,viu.now.com
   - DOMAIN-SUFFIX,viu.tv
+  - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN,hamifans.emome.net
   - DOMAIN-SUFFIX,skyking.com.tw
