@@ -467,3 +467,4 @@ payload:
   - DOMAIN-SUFFIX,skyking.com.tw
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,debian.map.fastlydns.net
+  - DOMAIN-SUFFIX,registry.yarnpkg.com
