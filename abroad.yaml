@@ -468,3 +468,4 @@ payload:
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,debian.map.fastlydns.net
   - DOMAIN-SUFFIX,registry.yarnpkg.com
+  - DOMAIN-SUFFIX,gamer520.com
