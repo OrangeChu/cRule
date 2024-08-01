@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,osano.com
   - DOMAIN-SUFFIX,synocommunity.com
   - DOMAIN-SUFFIX,op.gg
+  - DOMAIN-SUFFIX,cloudflare-dns.com
