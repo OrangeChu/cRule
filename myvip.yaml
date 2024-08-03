@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,synocommunity.com
   - DOMAIN-SUFFIX,op.gg
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,1.1.1.1
