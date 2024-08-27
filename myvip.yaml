@@ -14,3 +14,5 @@ payload:
   - IP-CIDR,8.8.4.4/32
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,plex.tv
