@@ -19,4 +19,4 @@ payload:
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN-KEYWORD,npmjs
-  - DOMAIN-KEYWORD,workos.com
+  - DOMAIN-SUFFIX,workos.com
