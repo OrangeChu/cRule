@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,plex.tv
   - DOMAIN-SUFFIX,ping0.cc
   - DOMAIN-SUFFIX,nodejs.org
+  - DOMAIN-KEYWORD,npmjs
