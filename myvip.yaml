@@ -19,3 +19,7 @@ payload:
   - DOMAIN-SUFFIX,nodejs.org
   - DOMAIN-KEYWORD,npmjs
   - DOMAIN-SUFFIX,workos.com
+  - DOMAIN-SUFFIX,metadata.provider.plex.tv
+  - DOMAIN-SUFFIX,analytics.plex.tv
+  - DOMAIN-SUFFIX,metadata-static.plex.tv
+  - DOMAIN-SUFFIX,meta.plex.tv
