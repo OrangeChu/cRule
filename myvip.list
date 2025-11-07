@@ -1,29 +1,29 @@
-- DOMAIN-SUFFIX,debian.map.fastlydns.net
-- DOMAIN-SUFFIX,registry.yarnpkg.com
-- DOMAIN-SUFFIX,gamer520.com
-- DOMAIN-SUFFIX,1lou.info
-- DOMAIN-SUFFIX,playsupervive.com
-- DOMAIN-SUFFIX,obsproject.com
-- DOMAIN-SUFFIX,osano.com
-- DOMAIN-SUFFIX,synocommunity.com
-- DOMAIN-SUFFIX,op.gg
-- DOMAIN-SUFFIX,cloudflare-dns.com
-- IP-CIDR,1.1.1.1/32
-- IP-CIDR,1.0.0.1/32
-- IP-CIDR,8.8.4.4/32
-- IP-CIDR,8.8.8.8/32
-- DOMAIN-SUFFIX,cursor.com
-- DOMAIN-SUFFIX,docker.com
-- DOMAIN-SUFFIX,tmdb.org
-- DOMAIN-SUFFIX,ping0.cc
-- DOMAIN-SUFFIX,nodejs.org
-- DOMAIN-KEYWORD,npmjs
-- DOMAIN-SUFFIX,workos.com
-- DOMAIN-SUFFIX,plex.tv
-- DOMAIN,steam.050521.xyz
-- DOMAIN-SUFFIX,steampowered.com
-- DOMAIN-SUFFIX,mobalytics.gg
-- DOMAIN-SUFFIX,rewasd.com
-- DOMAIN-SUFFIX,dcard.tw
-- DOMAIN-KEYWORD,javcdn
-- DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,debian.map.fastlydns.net
+DOMAIN-SUFFIX,registry.yarnpkg.com
+DOMAIN-SUFFIX,gamer520.com
+DOMAIN-SUFFIX,1lou.info
+DOMAIN-SUFFIX,playsupervive.com
+DOMAIN-SUFFIX,obsproject.com
+DOMAIN-SUFFIX,osano.com
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-SUFFIX,op.gg
+DOMAIN-SUFFIX,cloudflare-dns.com
+IP-CIDR,1.1.1.1/32
+IP-CIDR,1.0.0.1/32
+IP-CIDR,8.8.4.4/32
+IP-CIDR,8.8.8.8/32
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,ping0.cc
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-KEYWORD,npmjs
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,plex.tv
+DOMAIN,steam.050521.xyz
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,mobalytics.gg
+DOMAIN-SUFFIX,rewasd.com
+DOMAIN-SUFFIX,dcard.tw
+DOMAIN-KEYWORD,javcdn
+DOMAIN,gemini.google.com
