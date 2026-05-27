@@ -28,3 +28,4 @@ payload:
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-KEYWORD,javcdn
   - DOMAIN,gemini.google.com
+  - DOMAIN-SUFFIX,notion.so
