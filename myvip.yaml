@@ -30,3 +30,4 @@ payload:
   - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notion.site
+  - DOMAIN-SUFFIX,notion.com
