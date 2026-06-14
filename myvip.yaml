@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,rewasd.com
   - DOMAIN-SUFFIX,dcard.tw
   - DOMAIN-KEYWORD,javcdn
+  - DOMAIN-KEYWORD,cloudflare-dns
   - DOMAIN,gemini.google.com
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notion.site
