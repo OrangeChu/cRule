@@ -34,3 +34,4 @@ payload:
   - DOMAIN-SUFFIX,notion.com
   - PROCESS-NAME,notion
   - PROCESS-NAME,notion.exe
+  - DOMAIN-SUFFIX,music.gdstudio.xyz
