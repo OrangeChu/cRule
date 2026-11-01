@@ -35,3 +35,5 @@ payload:
   - PROCESS-NAME,notion
   - PROCESS-NAME,notion.exe
   - DOMAIN-SUFFIX,music.gdstudio.xyz
+  - DOMAIN-KEYWORD,dian115
+  - DOMAIN-KEYWORD,anyrouter
